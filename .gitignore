@@ -1,0 +1,9 @@
+# IGNORE node_modules
+node_modules/
+.wwebjs_auth/
+
+# managed
+**.data.json
+**.node-persist**
+**_IGNORE_**
+# end managed
